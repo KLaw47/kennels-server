@@ -1,0 +1,4 @@
+{
+  "python.formatting.autopep8Path": "/c/Python310/Scripts/autopep8",
+  "python.linting.pylintEnabled": true
+}
